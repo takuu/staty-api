@@ -1,3 +1,5 @@
+# Backend of Staty (Node.js + Express)
+
 - Need to restore mongodb
 
 mongorestore -d staty mongodata/staty/
